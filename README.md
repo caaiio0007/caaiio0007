@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Ola 👋 Me chamo Caio</h1>
+<h3 align="center">Sou um estudante na area de programação!</h3>
 
-<!--
-**caaiio0007/caaiio0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente eu estou aprendendo **HTML5 e CSS3**
 
-Here are some ideas to get you started:
+- 🤝 Eu procuro ajuda em **Javascript e C#**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Todos meus projetos estão em meu perfil do github: [https://github.com/caaiio0007](https://github.com/caaiio0007)
+
+- 📫 Meu email: **caiorissa@gmail.com**
+
+- ⚡ Fato curioso: **Eu acho que sou legal e engraçado**
+
+<h3 align="left">Me siga nas redes sociais:</h3>
+<p align="left">
+<a href="https://twitter.com/caaiiors_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caaiiors_" height="30" width="40" /></a>
+<a href="https://instagram.com/caaiiors_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caaiiors_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/460k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="460k" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Linguagens:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
