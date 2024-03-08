@@ -1,7 +1,7 @@
 <h1 align="center">Ola 👋 Me chamo Caio</h1>
 <h3 align="center">Sou um estudante na area de programação!</h3>
 
-- 🌱 Atualmente eu estou aprendendo **HTML5 e CSS3**
+- 🌱 Atualmente eu estou aprendendo **Javascript**
 
 - 🤝 Eu procuro ajuda em **Javascript e C#**
 
