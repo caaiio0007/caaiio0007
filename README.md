@@ -5,7 +5,8 @@
 
 - 🤝 Eu procuro ajuda em **Javascript e C#**
 
-- 👨‍💻 Todos meus projetos estão em meu perfil do github: [https://github.com/caaiiors](https://github.com/caaiiors)
+- 👨‍💻 Todos meus projetos estão em meu site: [https://[github.io
+](https://caaiiors.github.io/)](https://caaiiors.github.io/)
 
 - 📫 Meu email: **caiorissa@gmail.com**
 
