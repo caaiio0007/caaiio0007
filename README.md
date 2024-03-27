@@ -11,7 +11,7 @@
 
 - ⚡ Fato curioso: **Eu acho que sou legal e engraçado**
 
-- Meus principais projetos estao em meu site: <p><a href="https://ideias-do-chatgpt-site.vercel.app/" target="blank">https://ideias-do-chatgpt-site.vercel.app/</p>
+- Meus principais projetos estao em meu site: https://ideias-do-chatgpt-site.vercel.app
 
 <h3 align="left">Me siga nas redes sociais:</h3>
 <p align="left">
