@@ -11,6 +11,8 @@
 
 - ⚡ Fato curioso: **Eu acho que sou legal e engraçado**
 
+- Meus principais projetos estao em meu site: <p><a href="https://ideias-do-chatgpt-site.vercel.app/" target="blank">https://ideias-do-chatgpt-site.vercel.app/</p>
+
 <h3 align="left">Me siga nas redes sociais:</h3>
 <p align="left">
 <a href="https://twitter.com/caaiiors_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caaiiors_" height="30" width="40" /></a>
